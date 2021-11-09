@@ -161,6 +161,7 @@ namespace LoginFormTest
 }
 </code></pre>
 <p>5. Add file LoginFormTest.csproj</p>
+<pre>
 <code>
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
@@ -173,6 +174,7 @@ namespace LoginFormTest
     </ItemGroup>
 </Project>
 </code>
+</pre>
 <h4><strong>Building Your Pipeline</strong></h4>
 <p>1. From the <a href="https://dev.azure.com/">Azure DevOps dashboard Dashboard</a>, create a new project and select Pipelines</p>
 <p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline2.png" /></p>
