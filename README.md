@@ -180,15 +180,15 @@ namespace LoginFormTest
 </pre>
 <h4><strong>Building Your Pipeline</strong></h4>
 <p>1. From the <a href="https://dev.azure.com/">Azure DevOps dashboard Dashboard</a>, create a new project and select Pipelines</p>
-<p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline2.png" /></p>
+<p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline2.png" /></p>
 <p>2. Create a new pipeline  and set up your GitHub repo</p>
-<p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline3.png" /></p>
-<p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline4.png" /></p>
+<p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline3.png" /></p>
+<p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline4.png" /></p>
 <p>3. Add a new Service Connection from the Project Settings page using the type CBT Credentials</p>
 <p><img class="" src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline8.png" width="286" height="384" /></p>
 <p>4. Add the CrossBrowserTesting Configuration task to your azure-pipelines.yml file</p>
-<p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline5.png" /></p>
-<p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline7.png" /></p>
+<p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline5.png" /></p>
+<p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline7.png" /></p>
 <p>5. Save and Run</p>
 <p>You should see your build start to run in Azure Pipelines and in the CrossBrowserTesting app <a href="https://app.crossbrowsertesting.com/selenium/results">here</a>.</p>
 <p>If you have any questions or concerns, feel <a href="mailto:support@crossbrowsertesting.com">free to get in touch</a>.</p>
