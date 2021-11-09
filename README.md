@@ -1,5 +1,5 @@
 <h2><strong>Getting Started with Azure Pipelines and CrossBrowserTesting</strong></h2>
-<p><em>For this document, we provide complete example files in our <a href="https://github.com/crossbrowsertesting/selenium-azure-pipelines/tree/main">Azure Pipelines Github Repository</a>.</em></p>
+<p><em>For this document, we provide complete example files in our <a href="https://github.com/crossbrowsertesting/dotnet-selenium-azure-pipelines">Azure Pipelines Github Repository</a>.</em></p>
 <p><a href="https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops">Azure Pipelines</a> is a continuous integration tool that lets you automate your development process quickly, safely, and at scale. Through Azure Pipelines' integration with GitHub, GitHub Enterprise, Azure Repos Git &amp; TFVC, Bitbucket Cloud, and Subversion, every time you commit code, a build is created and automatically run in a clean container or virtual machine, allowing you to test every commit.</p>
 <p>In this guide we will use Azure Pipelines with Github for testing using the Selenium Webdriver and the Python programming language.</p>
 <h3>Setting up Azure Pipelines</h3>
