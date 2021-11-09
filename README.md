@@ -185,7 +185,7 @@ namespace LoginFormTest
 <p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline3.png" /></p>
 <p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline4.png" /></p>
 <p>3. Add a new Service Connection from the Project Settings page using the type CBT Credentials</p>
-<p><img class="" src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline8.png" width="286" height="384" /></p>
+<p><img class="" src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline8.png" width="286" height="384" /></p>
 <p>4. Add the CrossBrowserTesting Configuration task to your azure-pipelines.yml file</p>
 <p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline5.png" /></p>
 <p><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline7.png" /></p>
