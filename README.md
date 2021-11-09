@@ -163,7 +163,6 @@ namespace LoginFormTest
 <p>5. Add file LoginFormTest.csproj</p>
 <pre>
 <code>
-
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
@@ -177,7 +176,6 @@ namespace LoginFormTest
     </ItemGroup>
     
 </Project>
-
 </code>
 </pre>
 <h4><strong>Building Your Pipeline</strong></h4>
