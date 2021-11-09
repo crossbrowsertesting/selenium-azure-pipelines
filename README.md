@@ -161,23 +161,18 @@ namespace LoginFormTest
 }
 </code></pre>
 <p>5. Add file LoginFormTest.csproj</p>
-<pre>
 <code>
 <Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
-
     <ItemGroup>
       <PackageReference Include="NUnit" Version="3.13.2" />
       <PackageReference Include="OpenQA.Selenium.Winium" Version="1.0.0.4" />
     </ItemGroup>
-
 </Project>
 </code>
-</pre>
 <h4><strong>Building Your Pipeline</strong></h4>
 <p>1. From the <a href="https://dev.azure.com/">Azure DevOps dashboard Dashboard</a>, create a new project and select Pipelines</p>
 <p><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline2.png" /></p>
