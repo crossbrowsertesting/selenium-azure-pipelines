@@ -6,7 +6,7 @@
 <p>1. Sign into your Azure DevOps organization or follow the detailed guide <a href="https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-sign-up?view=azure-devops">here</a> to create a new one.</p>
 <p>2. Install the <a href="https://marketplace.visualstudio.com/items?itemName=CrossBrowserTesting.cbt-tasks">CBT for Azure DevOps</a> extension for your organization</p>
 <p>3. Navigate to your GitHub account and <a href="https://github.com/new">create a new repository</a>.</p>
-<h4><img src="http://help.crossbrowsertesting.com/wp-content/uploads/2020/11/azure_pipeline1.png" /></h4>
+<h4><img src="https://support.smartbear.com/crossbrowsertesting/docs/_images/automated-testing/frameworks/selenium/continuous-integration/azure_pipeline1.png" /></h4>
 <p>4. Add file test_selenium.py</p>
 <pre><code>
 from selenium import webdriver
