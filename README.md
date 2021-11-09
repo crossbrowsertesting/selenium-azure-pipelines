@@ -163,16 +163,21 @@ namespace LoginFormTest
 <p>5. Add file LoginFormTest.csproj</p>
 <pre>
 <code>
+
 <Project Sdk="Microsoft.NET.Sdk">
+
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
+    
     <ItemGroup>
       <PackageReference Include="NUnit" Version="3.13.2" />
       <PackageReference Include="OpenQA.Selenium.Winium" Version="1.0.0.4" />
     </ItemGroup>
+    
 </Project>
+
 </code>
 </pre>
 <h4><strong>Building Your Pipeline</strong></h4>
